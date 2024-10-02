@@ -1,4 +1,4 @@
-Little Lemon App
+### Little Lemon App
 
 Steps to Create and Submit the Project
 
